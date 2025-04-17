@@ -8855,3 +8855,17 @@ xBase:
   tm_scope: source.harbour
   ace_mode: text
   language_id: 421
+Covi:
+  type: programming
+  color: "#32CD32"               
+  extensions:
+    - ".covi"
+    - ".covil"
+    - ".covar"
+  aliases:
+    - Covilang
+    - Corona
+  tm_scope: source.java          
+  ace_mode: java
+  language_id: 63212         
+  group: Covi
